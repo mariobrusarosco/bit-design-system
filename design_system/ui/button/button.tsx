@@ -7,7 +7,7 @@ export type ButtonProps = {
 
 export function Button({ text, loading }: ButtonProps) {
   return (
-    <button >
+    <button data-test="ui-button">
       {loading ? '...': text}
     </button>
   );
