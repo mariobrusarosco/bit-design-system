@@ -2,10 +2,16 @@
 
 {
     "ui/button": {
-        "scope": "",
-        "version": "",
+        "scope": "mariobrusarosco.design_system",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "design_system/ui/button"
+    },
+    "ui/card": {
+        "scope": "mariobrusarosco.design_system",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "design_system/ui/card"
     },
     "$schema-version": "14.9.0"
 }
